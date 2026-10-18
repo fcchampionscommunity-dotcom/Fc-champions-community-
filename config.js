@@ -3,5 +3,5 @@
    NEVER paste the service_role / secret key here. */
 window.FCC_CONFIG = {
   SUPABASE_URL: "https://mkqigxoumztjgezwbalf.supabase.co
-  SUPABASE_ANON_KEY: ""sb_publishable_iH5GX4Q2DBN9L572GL4Q9w_UI15-V2e
+  SUPABASE_ANON_KEY: "sb_publishable_iH5GX4Q2DBN9L572GL4Q9w_UI15-V2e
 };
